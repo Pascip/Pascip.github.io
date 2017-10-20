@@ -25,7 +25,17 @@
 			function throwError (e) {
 				alert(e.name);
 			}
-
+            
+            setTimeout(thingToRepeat, 5000); 
+            
+            function thingToRepeat() {
+                let shouldCancel = false;
+                snap();
+            if (!shouldCancel) {
+                setTimeout(thingToRepeat, 5000);
+                }
+            }
+            
 			function snap () {
 				canvas.width = video.clientWidth;
 				canvas.height = video.clientHeight;
