@@ -4,7 +4,7 @@
 
 Was made for testing, accesses your devices camera and takes a new photo every 5 seconds. 
 
-No external script because it was simpler to show in one file (also those two files would be way even shorter. 
+No external script because it was simpler to show in one file (also those two files would be even shorter). 
 
 # Video element
 It shows a live picture of the camera. Works fine expect for Mobile Users that use Chrome, because it won't update the picture always.
