@@ -7,8 +7,13 @@
     </head>
     <body style=’margin : 0px; overflow: hidden;’>
         <a-scene embedded arjs=’sourceType: webcam;’></a-scene>
-        <a-entity camera obj-model=”obj: url(overwatch-mercys-witch/source/untitled.obj); 
-        mtl: url(overwatch-mercys-witch/source/untitled.mtl)” ></a-entity>
-        <a-marker preset=’hiro’></a-marker>
+        <a-entity camera></a-entity>
+        <a-marker preset=’hiro’>
+        <a-entity
+         obj-model=”obj: url(overwatch-mercys-witch/source/untitled.obj); 
+        mtl: url(overwatch-mercys-witch/source/untitled.mtl)”
+         >
+          </a-entity>
+        </a-marker>
     </body>
 </html>
