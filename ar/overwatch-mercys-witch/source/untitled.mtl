@@ -1,0 +1,60 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl 25_mercy_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.651798 0.766403 0.594423
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd OW_Mercy_Witch_TRDaz\Mercy_Witch\Mercy_D.tga
+map_Bump OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_N.tga
+map_Ks OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_S.TGA
+map_d OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_D.tga
+
+newmtl 27_eyes_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.782758 0.521751 0.750540
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd OW_Mercy_Witch_TRDaz\Mercy_Witch\Mercy_Eye_D.tga
+map_Bump OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Eye_N.tga
+map_Ke OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Eye_E.TGA
+map_d OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Eye_D.tga
+refl OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Eye_E.TGA
+
+newmtl 27_hair_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.400620 0.751336 0.542812
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd OW_Mercy_Witch_TRDaz\Mercy_Witch\Mercy_Hair_D.tga
+map_Bump OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Hair_N.tga
+map_Ke OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Hair_Sh.tga
+map_d OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Hair_D.tga
+refl OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Hair_Sh.tga
+
+newmtl 31_+Wings_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.570383 0.530486 0.629146
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd OW_Mercy_Witch_TRDaz\Mercy_Witch\Mercy_Wings_D.tga
+map_Bump OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Wings_N.tga
+map_Ke OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Wings_D.tga
+map_d OW_Mercy_Witch_TRDaz\\Mercy_Witch\\Mercy_Wings_D.tga
