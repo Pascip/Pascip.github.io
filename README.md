@@ -18,5 +18,5 @@ and after that it starts to draw the image.
 
 Since the script should just do a new photo every 5 seconds we repeat the function thingToRepeat repeat every 5 seconds. 
 
-#AR
+# AR
 Testing AR.js (https://github.com/jeromeetienne/AR.js), you have to use a hiro marker. 
